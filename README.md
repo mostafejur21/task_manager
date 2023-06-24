@@ -1,7 +1,3 @@
-![Screenshot_20230625_033633](https://github.com/mostafejur21/task_manager/assets/106027543/b3f02588-8eb2-42ea-81fa-b79ebb92dc71)
-![Screenshot_20230625_033644](https://github.com/mostafejur21/task_manager/assets/106027543/7955d50a-dd14-49d7-a776-43f86f89cd53)
-![Uploading Screenshot_20230625_033723.png…]()
-![Uploading Screenshot_20230625_033842.png…]()
 # task_manager
 
 A new Flutter project.
@@ -20,5 +16,9 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![Screenshot_20230625_033903](https://github.com/mostafejur21/task_manager/assets/106027543/87abe8b0-045b-4bf2-a9f3-32fee64118ae)
-![Uploading Screenshot_20230625_033633.png…]()
+![Screenshot_20230625_033723](https://github.com/mostafejur21/task_manager/assets/106027543/93e60a4c-ed16-42a4-9a79-239adac1f9dc)
+![Screenshot_20230625_033842](https://github.com/mostafejur21/task_manager/assets/106027543/be94d839-2c76-4381-bb71-9fc409c36cd9)
+![Screenshot_20230625_033903](https://github.com/mostafejur21/task_manager/assets/106027543/cd8feb57-4917-4322-8536-b958cf4da10a)
+![Screenshot_20230625_033633](https://github.com/mostafejur21/task_manager/assets/106027543/c4dd5684-33c7-49ae-8d0d-920e7da47f62)
+![Screenshot_20230625_033633](https://github.com/mostafejur21/task_manager/assets/106027543/7ed74381-c379-4984-9282-940a4202c168)
+![Screenshot_20230625_033644](https://github.com/mostafejur21/task_manager/assets/106027543/759190db-d345-492f-98ee-cf6c618f2ef1)
