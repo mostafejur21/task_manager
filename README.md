@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-[device-2023-06-25-033405.webm](https://github.com/mostafejur21/task_manager/assets/106027543/76fc69de-f2d0-41a4-a5cc-e82d21633b05)\
+[device-2023-06-25-033405.webm](https://github.com/mostafejur21/task_manager/assets/106027543/76fc69de-f2d0-41a4-a5cc-e82d21633b05)
 
 
 ![Screenshot_20230625_033723](https://github.com/mostafejur21/task_manager/assets/106027543/93e60a4c-ed16-42a4-9a79-239adac1f9dc)
